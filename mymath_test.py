@@ -7,4 +7,4 @@ def test_sub():
     assert mymath.sub(2,3) == -1
 
 def test_multiply():
-    assert mymath.multiply(2,3) == 6
+    assert mymath.multiply(3,3) == 9

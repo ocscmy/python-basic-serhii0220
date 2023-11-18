@@ -7,7 +7,7 @@
 Use the following command on the terminal to run your program (requires python3 installed)
 
 ```
-python3 run hello.py
+python3 hello.py
 ```
 
 ## Run the tests before you submit to make sure all pass
